@@ -1,6 +1,6 @@
 // add function
 const BASE_JSON_BIN_URL = "https://api.jsonbin.io/v3/b";
-const BIN_ID = "65c59f4f266cfc3fde87d272";
+const BIN_ID = "65ca629bdc74654018a3d305";
 const MASTER_KEY = "$2a$10$bGGtgHiNbK3z4vgOgJ28J.fxGlg8OD9LqM/yfLGJp7zF6XnFV0hoa";
 
 let songs = [];
